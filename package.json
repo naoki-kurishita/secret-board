@@ -16,7 +16,7 @@
     "pg-hstore": "^2.3.2",
     "sequelize": "^3.25.0"
   },
-  "engines":{
-    "node":"6.11.1"
+  "engines": {
+    "node": "6.11.1"
   }
 }
